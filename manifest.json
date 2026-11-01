@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "packages": [
+    {
+      "id": "madeira",
+      "name": "Madeira and Porto Santo",
+      "version": "2026.10.27",
+      "minApp": 1,
+      "files": [
+        {
+          "role": "base",
+          "url": "https://raw.githubusercontent.com/Psy8891/Vereda-data/maps/madeira-base.pmtiles",
+          "bytes": 9193254,
+          "sha256": "666c19b4e6fea1d9904af5f975c736ca10cc90f389e624a91077ec94e8fad67e"
+        },
+        {
+          "role": "contours",
+          "url": "https://raw.githubusercontent.com/Psy8891/Vereda-data/maps/madeira-contours.pmtiles",
+          "bytes": 6123138,
+          "sha256": "5dd78a54059a93368b96c5cf75aacef9857b5263fdd5d187c00ae5c1525774da"
+        },
+        {
+          "role": "dem",
+          "url": "https://raw.githubusercontent.com/Psy8891/Vereda-data/maps/madeira-dem.pmtiles",
+          "bytes": 21920737,
+          "sha256": "0f999925798a1a50a32012f4f6f6dba86c05d755e3c0acb6ba41aae092369bfe"
+        }
+      ]
+    }
+  ]
+}
